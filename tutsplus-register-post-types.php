@@ -19,9 +19,9 @@ License: GPLv2 or later
 Text Domain: -
  
 */
-// Changes made remotely on GIT rep
+// Changes made remotely on GIT repkm
 // Hook the 'wp_footer' action hook, add the function named 'mfp_Add_Text' to it
-//add_action("admin_init", "my_app_adduser");
+//add_action("admin_init", "my_app_adduser");mnmnm
 add_action('admin_menu', 'a_qoute_admin_action');
 
 
